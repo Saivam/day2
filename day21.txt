@@ -1,0 +1,3 @@
+git and github 
+workshop
+day2 offline mode
